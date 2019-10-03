@@ -9,7 +9,8 @@
     "mocha": "^6.2.1"
   },
   "scripts": {
-    "test": "mocha -w wrap.spec.js"
+    "wrap-test": "mocha -w wrap.spec.js",
+    "twoSum-test": "mocha -w twoSum.spec.js"
   },
   "keywords": [],
   "author": "",
