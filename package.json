@@ -10,7 +10,8 @@
   },
   "scripts": {
     "wrap-test": "mocha -w wrap.spec.js",
-    "twoSum-test": "mocha -w twoSum.spec.js"
+    "twoSum-test": "mocha -w twoSum.spec.js",
+    "longest-test": "mocha -w longestCommonPrefix.spec.js"
   },
   "keywords": [],
   "author": "",
